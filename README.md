@@ -10,6 +10,9 @@ Ensure you have the following installed on your system:
   You can check your Python version by running:  
   ```sh
   python --version
+- **open ai apikey**  
+    ```inside the  .env file inside your root project folder  add:
+    OPENAI_API_KEY=your api key
 
 ## Installation instructions
 1. git clone https://github.com/yourusername/your-flask-app.git
